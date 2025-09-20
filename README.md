@@ -1,5 +1,3 @@
-# 💫 About Me:
-# 👋 Salut, moi c’est Hugo<br><br>
 ## 🙋‍♂️ À propos de moi  <br>
   - 🌱 J’aime apprendre et créer de nouveaux projets  <br>
   - 💻 Passionné par le développement web et les technologies open-source  <br>
