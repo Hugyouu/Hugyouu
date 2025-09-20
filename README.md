@@ -1,5 +1,19 @@
 # 💫 About Me:
-# 👋 Salut, moi c’est Hugo<br><br>## 🙋‍♂️ À propos de moi  <br>- 🌱 J’aime apprendre et créer de nouveaux projets  <br>- 💻 Passionné par le développement web et les technologies open-source  <br>- 🚀 Toujours motivé à améliorer mes compétences  <br>- 🎯 Objectif : construire des outils utiles et fun  <br><br>## 🔧 Technologies & Outils  <br>- ⚡ HTML | CSS | JavaScript | C#<br>- ⚙️ React | Vue.js | Node.js<br>- 🐳 Docker | Portainer<br>- 🛠️ Git<br><br>## 🌍 Où me trouver  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/hugo-pierret/)  <br>- 📫 Me contacter : [hugo.pierret.hp@gmail.com](mailto:hugo.pierret.hp@gmail.com)  <br>- 📝 [Portfolio](https://hugo-pierret.be)  
+# 👋 Salut, moi c’est Hugo<br><br>
+## 🙋‍♂️ À propos de moi  <br>
+  - 🌱 J’aime apprendre et créer de nouveaux projets  <br>
+  - 💻 Passionné par le développement web et les technologies open-source  <br>
+  - 🚀 Toujours motivé à améliorer mes compétences  <br>
+  - 🎯 Objectif : construire des outils utiles et fun  <br><br>
+## 🔧 Technologies & Outils  <br>
+  - ⚡ HTML | CSS | JavaScript | C#<br>
+  - ⚙️ React | Vue.js | Node.js<br>
+  - 🐳 Docker | Portainer<br>
+  - 🛠️ Git<br><br>
+## 🌍 Où me trouver  <br>
+  - 💼 [LinkedIn](https://www.linkedin.com/in/hugo-pierret/)  <br>
+  - 📫 Me contacter : [hugo.pierret.hp@gmail.com](mailto:hugo.pierret.hp@gmail.com)  <br>
+  - 📝 [Portfolio](https://hugo-pierret.be)  
 
 
 # 💻 Tech Stack:
